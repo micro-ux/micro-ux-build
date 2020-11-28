@@ -12,7 +12,8 @@
   },
   "scripts": {
     "link:all": "lerna link",
-    "unlink:all": "lerna unlink"
+    "unlink:all": "lerna unlink",
+    "publish:all": "lerna publish"
   },
   "devDependencies": {
     "lerna": "3.22.1"
