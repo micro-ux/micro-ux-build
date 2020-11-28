@@ -6,5 +6,10 @@
   "author": "Nischith BM <nischithbm@gmail.com>",
   "devDependencies": {
     "typescript": "4.0.5"
-  }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "8395c966340a4e1e167a5005268e442eefaba788"
 }
