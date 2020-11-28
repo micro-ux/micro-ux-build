@@ -11,11 +11,12 @@
   },
   "publishConfig": {
     "access": "public",
+    "conventionalCommits": true,
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "link:all": "lerna link",
-    "unlink:all": "lerna unlink",
+    "link:all": "lerna run link:all",
+    "unlink:all": "lerna run unlink:all",
     "publish:all": "lerna publish"
   },
   "devDependencies": {

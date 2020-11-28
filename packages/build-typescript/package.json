@@ -4,6 +4,10 @@
   "license": "MIT",
   "repository": "git@github.com:micro-ux/micro-ux-build.git",
   "author": "Nischith BM <nischithbm@gmail.com>",
+  "scripts": {
+    "link:all": "yarn link",
+    "unlink:all": "yarn unlink"
+  },
   "devDependencies": {
     "typescript": "4.0.5"
   },
