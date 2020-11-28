@@ -1,6 +1,7 @@
 {
   "name": "@micro-ux/build-mono-repo",
   "version": "0.0.1",
+  "private": true,
   "repository": "git@github.com:micro-ux/micro-ux-build.git",
   "author": "Nischith BM <nischithbm@gmail.com>",
   "license": "MIT",
