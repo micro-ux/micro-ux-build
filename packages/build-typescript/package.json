@@ -1,6 +1,6 @@
 {
   "name": "@micro-ux/build-typescript",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "repository": "git@github.com:micro-ux/micro-ux-build.git",
   "author": "Nischith BM <nischithbm@gmail.com>",
